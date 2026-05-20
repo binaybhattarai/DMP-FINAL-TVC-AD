@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20260519T183909" id="14a9ca02-e3f3-44ee-b58b-60d73c78dc99"/>
+
+  <Content>
+    <Paragraph Type="Action" id="eee3f704-ffef-4111-a664-732e42174308">
+      <Text>DISTANCE DOESN'T MATTER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bd706fec-cef4-4e9b-a7aa-f52eb24889b3">
+      <Text>Dash Logistics </Text>
+      <Text AdornmentStyle="-1">TVC</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d7fb3791-32e8-4044-b6d5-8ccdacd2d9f8">
+      <Text>Final Draft Script Based on Storyboard</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="73b8b8d0-899a-458f-a372-69f688a4ed04">
+      <Text>Duration: </Text>
+      <Text AdornmentStyle="-1">Approx</Text>
+      <Text>. 25–45 seconds | Format: No Dialogue / Emotional Advertisement</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="a3cd5508-79b2-4992-9fb9-a7c1084067a0">
+      <Text>FADE IN:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="3028f288-3100-4af0-be53-379646e3768e">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. MOTHER'S ROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="78352a2d-524f-4799-ab19-32c5b2eb0a0d">
+      <Text>SCENE 1 — 1 TO 2 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cc3f2031-c4c0-4ac5-a66a-65ac989e2879">
+      <Text>Close-up of a MOTHER'S hands carefully placing folded clothes inside a red Dash package box.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bd6d1714-705b-418b-af97-37d07093cbf5">
+      <Text>The movement is slow and gentle, showing care.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5f8d53dd-b44b-4147-8ac5-59f9fd34caf2">
+      <Text>Soft emotional music begins.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a67387ec-0c52-4eef-b8ab-c928e712074b"/>
+    <Paragraph Type="Scene Heading" id="74a92fd0-4c93-486b-8bca-6cd90352538b">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. MOTHER'S ROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="391d4d7c-494f-41af-8613-4fe12cddcd11">
+      <Text>SCENE 2 — 2 TO 6 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="77199cfd-f928-4181-9a60-6957244bc510">
+      <Text>The mother adds homemade food inside the box.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="71aaad6e-ce41-4b69-94c5-9450101488b4">
+      <Text>She places a handwritten letter on top of the clothes and food.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9276cd7e-b64c-4902-b9a9-36f65a012355">
+      <Text>The note becomes the emotional focus of the package.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eb4c27e0-f1b9-4baf-a4b7-8759f570fd54"/>
+    <Paragraph Type="Scene Heading" id="5fc57993-06c1-4591-8760-5bbeb418d6a9">
+      <SceneProperties Length="3/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. HOUSE ENTRANCE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ae75b3e9-9055-43be-93c8-3fbd20d44361">
+      <Text>SCENE 3 — 2 TO 3 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea233147-e90f-4977-8200-86ff06ba50dc">
+      <Text>A DASH RIDER waits outside the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c3b08399-cd61-495e-899b-1c1f198b84b3">
+      <Text>The mother hands over the package to the rider.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c2b0bc49-c1a1-45ec-96c3-809f2ec23e81">
+      <Text>The rider receives it carefully.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a2941a80-8232-49d3-9228-d039b1c5c015">
+      <Text>The mother watches with a soft expression as the package leaves her hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6b55d169-2a38-47f1-bedd-c8fea80c6a27">
+      <SceneProperties Length="2/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. STREET / ROAD - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5614c637-4129-4837-ab72-3ed09f15630c">
+      <Text>SCENE 4 — 5 TO 15 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c171dee3-09f1-4d16-b466-c0ad32fdc39f">
+      <Text>The Dash rider rides through the road on a scooter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a9c57f9e-4c59-4de1-b278-7acd1f4bed9a">
+      <Text>The red Dash delivery bag is visible.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b89d1410-8e9a-4448-9cd6-38da9db7af6b">
+      <Text>The scooter moves through local streets, showing the delivery journey from the mother's place to the son's location.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7580eaa8-56ce-4598-b628-580f94a6d3cd">
+      <Text>The music slowly builds.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="74ff2270-b180-4c81-a0f4-2cdc011757a7"/>
+    <Paragraph Type="Scene Heading" id="6c59d89d-4d0e-4e38-bc47-6ef10164b355">
+      <SceneProperties Length="2/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. SON'S PLACE / DOORWAY - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6bf939c7-668b-4d5b-a2b2-0b1f1ba3f552">
+      <Text>SCENE 5 — 2 TO 6 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bc1fd873-65d1-4309-b329-e5fd1134df06">
+      <Text>The package arrives at the son's place.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="961d939a-a399-4ba0-b5f5-4e2b927d0852">
+      <Text>The son opens the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="636c8ed3-626e-485c-ac23-50dfbcaae2cc">
+      <Text>The Dash rider hands him the package.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c5ed335f-0649-4d87-a725-a34280ffe8a9">
+      <Text>The son receives it with curiosity and a small smile.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a234255-8b47-40f5-8837-5e7485c05f0a"/>
+    <Paragraph Type="Scene Heading" id="87f7fbb2-aaed-4be7-8eed-1855f4ceb307">
+      <SceneProperties Length="2/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. SON'S ROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="68cc633a-ab94-42bb-a916-cf339b1b3b67">
+      <Text>SCENE 6 — 2 TO 3 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="27809352-852c-4a02-930b-50dcf0ef6954">
+      <Text>The son sits down and opens the package.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0ff0d584-99ab-4877-8a9b-ef59e4644403">
+      <Text>He sees the clothes and food inside.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="67661e85-fa9f-4864-96c2-033d3899ad99">
+      <Text>His attention moves toward the handwritten note.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d289970e-15df-4e84-b9f8-56448e36d5f8"/>
+    <Paragraph Type="Scene Heading" id="9bd71b4d-db36-46cb-9671-57b50b62d356">
+      <SceneProperties Length="5/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. SON'S ROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a4254d46-97f2-473c-ab20-f7f8945328d2">
+      <Text>SCENE 7 — 3 TO 5 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e774d6b4-575b-4357-8245-3ea0160b6596">
+      <Text>Close-up of the son holding the note.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4d9b5db9-db61-4262-a44c-2ecbabac20c6">
+      <Text>He reads it silently.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9a7721d7-4cd7-45c4-81f5-6d24a6e66a5b">
+      <Text>His face slowly changes from curiosity to emotion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b77f82ba-7594-4500-85be-06c188c1d624">
+      <Text>He smiles softly, feeling connected to home.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="08ff0aff-2b91-45b5-a52b-64031c2ef8a5">
+      <Text>CUT TO BLACK:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7b0cd5d2-b03b-44d9-a0f0-ce22d945bb59">
+      <Text>SCENE 8 — 2 TO 5 SECONDS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5c6a18db-22b5-4b8f-9598-b0f45385567a">
+      <Text>ON SCREEN TEXT:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="35976db6-2437-4239-9b4f-ec6e7599225c">
+      <Text>Distance doesn't break bonds.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3e8e4967-2dae-4f45-adf0-2104d6d612c2">
+      <Text>Dash delivers what matters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="afd71683-26ee-481e-a184-bb705901be8f">
+      <Text>DASH LOGISTICS LOGO APPEARS.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="363572aa-55ec-403c-81ad-2de302635046">
+      <Text>Soft music fades out.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="33706dbb-2e1a-4753-ac6e-441004d1e2ea">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution/>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="0" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="0" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#C0C0C0C0C0C0" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="949" Left="0" Mode="Normal" Top="0" Width="1512"/>
+
+  <TextState Scaling="100" Selection="1530,1530" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.12" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.62" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="0" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#RRRRGGGGBBBB" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="0" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="0" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </Content>
+    <TextState Scaling="75" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters/>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>Int</SceneIntro>
+      <SceneIntro>Ext</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations/>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>Day</TimeOfDay>
+      <TimeOfDay>Night</TimeOfDay>
+      <TimeOfDay>Afternoon</TimeOfDay>
+      <TimeOfDay>Morning</TimeOfDay>
+      <TimeOfDay>Evening</TimeOfDay>
+      <TimeOfDay>Later</TimeOfDay>
+      <TimeOfDay>Moments Later</TimeOfDay>
+      <TimeOfDay>Continuous</TimeOfDay>
+      <TimeOfDay>The Next Day</TimeOfDay>
+      <TimeOfDay>Magic Hour</TimeOfDay>
+      <TimeOfDay>Dawn</TimeOfDay>
+      <TimeOfDay>Dusk</TimeOfDay>
+      <TimeOfDay>Same</TimeOfDay>
+      <TimeOfDay>Same Time</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>Cut To:</Transition>
+      <Transition>Fade In:</Transition>
+      <Transition>Fade Out.</Transition>
+      <Transition>Fade To:</Transition>
+      <Transition>Dissolve To:</Transition>
+      <Transition>Back To:</Transition>
+      <Transition>Match Cut To:</Transition>
+      <Transition>Jump Cut To:</Transition>
+      <Transition>Fade To Black.</Transition>
+      <Transition>Smash Cut To:</Transition>
+      <Transition>Cut to Black.</Transition>
+      <Transition>Time Cut:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="1" Mark="*" Name="First Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#6363A7A7EFEF" FullRevision="No" ID="2" Mark="*" Name="Second Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#8F8FC3C36A6A" FullRevision="No" ID="3" Mark="*" Name="Third Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#E5E5CBCB6C6C" FullRevision="No" ID="4" Mark="*" Name="Fourth Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Shift+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+        <ActivateIn Element="New Act"/>
+        <ActivateIn Element="Sequence"/>
+        <ActivateIn Element="End of Act"/>
+        <ActivateIn Element="Summary"/>
+        <ActivateIn Element="Outline 1"/>
+        <ActivateIn Element="Outline 2"/>
+        <ActivateIn Element="Outline 3"/>
+        <ActivateIn Element="Note"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="Ralph" Name="Man 1" Pitch="High" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Fred" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Albert" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Kathy" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Junior" Name="Boy 1" Pitch="High" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Albert" Name="Boy 2" Pitch="Low" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Albert" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Albert" Name="Girl 2" Pitch="High" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Albert" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice="�`�"/>
+    <Actor MacVoice="Albert" Name="Old Woman" Pitch="Normal" Speed="Slow" WinVoice="�`�"/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor=""/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting/>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Scenes" SortColumn="Order" TableIdentifier="NavDynScenes" id="5b1a6c45-84aa-45e8-87a1-9c86f3b416f2">
+      <Column Width="66">Order</Column>
+      <Column Width="48">Page</Column>
+      <Column Width="250">Script</Column>
+      <Column Width="50">Color</Column>
+      <Column Width="250">Summary</Column>
+    </TableColumnSettings>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynTags" id="c97b2b67-6750-4f87-9b35-18371f26ec7d">
+      <Column Width="66">Order</Column>
+      <Column Width="48">Page</Column>
+      <Column Width="250">Script</Column>
+      <Column Width="50">Color</Column>
+      <Column Width="250">Summary</Column>
+    </TableColumnSettings>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="95" Id="9d66b3f2-3f2b-4b45-9eec-9ba7373c5fe0" ScrollOrigin="0,0" Type="StoryMap" Width="2000" ZoomLevel="100.000">
+      <Lanes>
+        <Lane Id="f17a27bc-beab-45ac-b09f-20b8bf161e9b" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="a9401555-226d-478c-84d6-11304febd9cc" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+    <DisplayBoard Height="10000" Id="da0580a9-90c4-4d68-af8b-a43cc64bfd1e" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="14" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="16" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="17" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="18" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="20" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="21" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="22" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="148267ae-50ae-4746-8202-659fb7447b55" Name="Miscellaneous" Number="23" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="24" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="29" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="4a84b619-62f9-4c04-8e46-bf2cd0b7f582" Name="Art Department" Number="15" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="25" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="27" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="26" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#940011000000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="28" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Character" TableIdentifier="NavDynCharacters" id="fe8a97c6-9fb7-4517-9a8a-e7418eb7ed56">
+      <Column Width="150">Character</Column>
+      <Column UserType="TraitColumnType" Width="50">Role</Column>
+      <Column UserType="TraitColumnType" Width="63">Gender</Column>
+      <Column UserType="TraitColumnType" Width="70">Ethnicity</Column>
+      <Column UserType="TraitColumnType" Width="83">Orientation</Column>
+      <Column UserType="TraitColumnType" Width="80">Disability</Column>
+      <Column UserType="TraitColumnType" Width="50">Age</Column>
+      <Column UserType="TraitColumnType" Width="85">Occupation</Column>
+      <Column Width="73">Dialogues</Column>
+      <Column Width="60">Scenes</Column>
+      <Column Width="111">Speaking Scenes</Column>
+      <Column Width="138">Non-Speaking Scenes</Column>
+    </TableColumnSettings>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis"/>
+  </Characters>
+
+  <ScriptNotes>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynScriptNotes" id="eb3436a1-224a-4a25-a060-cc649d2c880a">
+      <Column Width="65">Order</Column>
+      <Column Width="0">Page</Column>
+      <Column Width="250">Title</Column>
+      <Column Width="250">Note</Column>
+      <Column Width="63">Color</Column>
+      <Column Width="90">Type</Column>
+    </TableColumnSettings>
+  </ScriptNotes>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="5b1a6c45-84aa-45e8-87a1-9c86f3b416f2"/>
+      <Tab id="c97b2b67-6750-4f87-9b35-18371f26ec7d"/>
+      <Tab id="fe8a97c6-9fb7-4517-9a8a-e7418eb7ed56"/>
+      <Tab id="eb3436a1-224a-4a25-a060-cc649d2c880a"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
